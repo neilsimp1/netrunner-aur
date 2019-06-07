@@ -4,5 +4,5 @@ Description=NetRunner is a telnet client originally developed in the late 90s in
 Exec=netrunner
 Terminal=false
 Type=Application
-Icon=/opt/netrunner.icn
+Icon=/opt/netrunner/netrunner.icn
 Categories=Network;Utilities;
